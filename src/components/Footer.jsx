@@ -44,10 +44,10 @@ function Footer(){
                     <a className="footer__link links" href="1-888-058-3728"><span className="bg-img link__img3"></span> 1-888-058-3728</a>
 
                     <div className="socials__box">
-                        <a className="footer__socials1 socials" href="#home"></a>
-                        <a className="footer__socials2 socials" href="#home"></a>
-                        <a className="footer__socials3 socials" href="#home"></a>
-                        <a className="footer__socials4 socials" href="#home"></a>  
+                        <button className="footer__socials1 socials"></button>
+                        <button className="footer__socials2 socials"></button>
+                        <button className="footer__socials3 socials"></button>
+                        <button className="footer__socials4 socials"></button>  
                     </div> 
                 </li>
             </ul>
